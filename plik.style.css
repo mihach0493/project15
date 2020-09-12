@@ -1,0 +1,16 @@
+p {
+
+height: 100px;
+width: 100px;
+background-color: red; 
+}
+
+.yellow, .blue, .purple{
+    background-color: blue;
+}
+.light{
+    opacity: 0.2;
+}
+.medium{
+    opacity: 0.5;
+}
